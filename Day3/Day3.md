@@ -1,9 +1,3 @@
-ChatGPT said:
-
-Perfect, Sahil ✅ You’ve completed all Day 3 tasks correctly.
-
-Here’s the ready-to-use documentation for your GitHub Day3.md based on your code:
-
 Day 3 – Strings in Python
 Topics Covered
 1. Strings Creation & Printing
